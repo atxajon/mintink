@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hargo | Hugo Ecommerce Site</title>
-    <link>https://demo.gethugothemes.com/hargo/examplesite/tags/</link>
-    <description>Recent content in Tags on Hargo | Hugo Ecommerce Site</description>
+    <title>Tags on Mintink | Your artistic planner stickers</title>
+    <link>https://atxajon.github.io/mintink/tags/</link>
+    <description>Recent content in Tags on Mintink | Your artistic planner stickers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://demo.gethugothemes.com/hargo/examplesite/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://atxajon.github.io/mintink/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
